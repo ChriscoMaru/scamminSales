@@ -1,0 +1,42 @@
+
+*{
+background-position: 
+}
+.navbar-expand-lg  {
+ background-color: crimson;
+ text-shadow: darkgray;
+}
+.sales{
+
+  text-align: center;
+}
+.card {
+  display: flex;
+}
+.row.pt-3{
+  padding-top: 30px!important;
+
+}
+.row.pt-4{
+  padding-top: 120px!important;
+  
+}
+.card-text {
+  font-family: 'Playfair Display', serif;
+  font-size: large;
+  font-weight: bolder;
+  
+}
+.lead{
+  font-family: 'Gotu', sans-serif;
+}
+.sales{
+  font-family: 'Playfair Display', serif;
+}
+.btn {
+  font-family: 'Playfair Display', serif;
+}
+.display-4{
+  font-family: 'Playfair Display', serif;
+  text-shadow: 2px 10px #ffff;
+}
